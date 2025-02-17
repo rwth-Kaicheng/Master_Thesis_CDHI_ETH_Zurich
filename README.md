@@ -1,6 +1,6 @@
 # Voice Pathology Detection Using Deep Learning
 
-This master thesis is both supervived by the Centre for Digital Health Interventions, ETH Zurich and the Chair of Medical Engineering, Faculty of Mechanical Engineering, Helmholtz Institute for Biomedical Engineering, RWTH Aachen University.
+This master thesis is both supervived by the Centre for Digital Health Interventions, ETH Zurich and the Chair of Medical Engineering, Faculty of Mechanical Engineering, Helmholtz Institute for Biomedical Engineering, RWTH Aachen University. Our results have sent to speech science and technology related conference: Interspeech 2025.
 
 With advancements in human-centered medical technology, the demand for non-invasive and remote diagnostic methods is steadily increasing. This thesis explores deep learning-based
 approaches for voice pathology classification using the Vowel Voice Pathological Dataset (VVPD), which integrates data from Coswara (COVID-19), ALS dataset (Amyotrophic Lateral
