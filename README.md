@@ -1,4 +1,5 @@
-# Master_Thesis_CDHI_ETH_Zurich
+# Voice Pathology Detection Using Deep Learning
+Master_Thesis_CDHI_ETH_Zurich
 With advancements in human-centered medical technology, the demand for non-invasive and remote diagnostic methods is steadily increasing. This thesis explores deep learning-based
 approaches for voice pathology classification using the Vowel Voice Pathological Dataset (VVPD), which integrates data from Coswara (COVID-19), ALS dataset (Amyotrophic Lateral
 Sclerosis), PC-GITA (Parkinson’s disease), and the Saarbrücken Voice Database (SVD). A novel two-stage classification architecture is proposed, incorporating gender-specific pathological
