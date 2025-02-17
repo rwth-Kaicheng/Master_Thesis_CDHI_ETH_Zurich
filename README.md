@@ -4,6 +4,6 @@ approaches for voice pathology classification using the Vowel Voice Pathological
 Sclerosis), PC-GITA (Parkinson’s disease), and the Saarbrücken Voice Database (SVD). A novel two-stage classification architecture is proposed, incorporating gender-specific pathological
 modeling to address potential voice feature differences between male and female patients. Additionally, this study examines the impact of data balancing techniques, comparing common
 resampling methods with a newly introduced timewarp strategy. Experiments are conducted by using ResNet-50 based transfer learning models and evaluating the performance of one-stage
-and two-stage architectures under different balancing techniques. Results indicate that the twostage architecture with timewarp-based balancing achieves the highest Matthews Correlation
+and two-stage architectures under different balancing techniques. Results indicate that the two-stage architecture with timewarp-based balancing achieves the highest Matthews Correlation
 Coefficient (MCC) of 0.9525, outperforming the baseline around 5%. These findings highlight the importance of gender related modeling in voice pathology classification and demonstrate
 the potential of deep learning for non-invasive disease detection.
